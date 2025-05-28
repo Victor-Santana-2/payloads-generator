@@ -1,4 +1,4 @@
-# **Documentação: Gerador de Payloads para Pentest em Python**
+# **Gerador de Payloads para Pentest em Python**
 
 Este projeto é um **gerador de payloads** para testes de penetração, desenvolvido em Python com interface gráfica (GUI) usando `tkinter`. Ele permite gerar payloads comuns como **reverse shells, XSS, SQL Injection, SSTI e Command Injection**.
 
